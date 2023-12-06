@@ -1,2 +1,7 @@
-This is a simple  to do list app using javascript .
-It has list , delete , quit and add functionality.
+This is a simple To Do List app.
+Built using JavaScript.
+Features Included:
+ 1. Add
+ 2. Update
+ 3. Delete
+
